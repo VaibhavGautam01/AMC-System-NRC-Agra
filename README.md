@@ -224,7 +224,8 @@ http://localhost:5000
 
 ## Project Author
 
-Tarun Saxena
+Vaibhav Gautam
+
 
 Railway AMC Complaint Management System
 
